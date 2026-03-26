@@ -14,8 +14,8 @@ To write a Java program that adds elements from an array into a TreeSet and disp
 ```
 /*
 Program that adds elements from an array into a TreeSet and displays the elements in sorted order.
-Developed by: karthik
-RegisterNumber: 212224230118
+Developed by: Vasanth N
+RegisterNumber: 212224110060
 */
 import java.util.*;
 
