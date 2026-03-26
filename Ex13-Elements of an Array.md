@@ -18,8 +18,8 @@ To write a Java program that fills the first 10 elements of an array with a cons
 ```
 /*
 Program to FILL the first 10 elements of an array with a constant value using the Arrays.fill() method.
-Developed by: karthik
-RegisterNumber:  212224230118
+Developed by: Vasanth N
+RegisterNumber:  212224110060
 */
 ```
 ```
